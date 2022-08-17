@@ -2,7 +2,7 @@
 
 A  # fancy refreshing widgets to make your application UI looks more fancy ❤️❤️🧑‍🎓.
 
-The name of the widget is # liquid_pull_to_refresh .
+The name of the widget is -> liquid_pull_to_refresh .
 
 
 Go through the widget and play with the properties 👨‍💻🤞 
