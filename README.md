@@ -1,6 +1,6 @@
 # pull_to_refresh_fancy
 
-A fancy refreshing widgets to make your application UI looks more fancy ❤️❤️🧑‍🎓.
+A fancy refreshing widget to make your application UI looks more fancy  at the time of the refreshing  ❤️🧑‍🎓.
 
 The name of the widget is below 🤖
             
